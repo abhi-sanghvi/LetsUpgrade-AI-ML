@@ -1,0 +1,33 @@
+STEPS FOR THE PROJECT
+
+1 Import packages, read data & explore
+2 Perform EDA
+    Handle missing data
+    5 point summary
+    Detect & solve outliers
+    Check data distribution, is it balanced
+    Get correlation value
+    Label encoding
+    Change data type
+    Remove columns
+    Pairplot
+    Scale data (StandardScaler or z_score)
+3 Split data (70:30)
+4 Model building
+    Logistic Regression
+    Naive Bayes
+    KNN
+    SVC
+    Decision tree
+        Feature importance test for DT
+        Prunning DT
+5 Ensemble models
+    Bagging
+    Adaptive Boosting
+    Gradient boosting
+    Random Forest
+6 Models with accuracy scores
+7 Conclusion
+    comments on dataset
+    on models
+    miscellaneous
